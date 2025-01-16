@@ -1,0 +1,14 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "cli for getting weather",
+  "main": "weather.js",
+  "bin": {
+    "weather": "weather.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikolay-komarov",
+  "license": "ISC"
+}
