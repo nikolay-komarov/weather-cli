@@ -26,6 +26,7 @@ const initCLI = () => {
   }
   if (args.s) {
     // todo: сохранить город
+
   }
   if (args.t) {
     return saveToken(args.t);
